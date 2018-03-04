@@ -7,7 +7,9 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
             {% for page in site.pages %}
+            {% unless page.show_in_nav == false %}
             <a class="nav-item nav-link" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
+            {% endunless %}
             {% endfor %}
         </div>
     </div>
