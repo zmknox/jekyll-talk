@@ -5,3 +5,11 @@
   /* Set the fixed height of the footer here */
   height: 60px;
 }
+
+.img-width {
+    max-width: 60%;
+}
+
+img {
+    image-orientation: from-image;
+}

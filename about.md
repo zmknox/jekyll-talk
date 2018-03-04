@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
+tagline: I wasn't quite sure what to put in the about page so here are some pictures of dhaynes.
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![dhaynes thumbs up 2]({{ site.baseurl | prepend: site.url }}/img/dhaynes2.jpg){: .img-thumbnail .img-width .mx-auto .d-block }
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![dhaynes thumbs up 3]({{ site.baseurl | prepend: site.url }}/img/dhaynes3.jpeg){: .img-thumbnail .img-width .mx-auto .d-block }
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+![dhaynes thumbs up 4]({{ site.baseurl | prepend: site.url }}/img/dhaynes4.jpg){: .img-thumbnail .img-width .mx-auto .d-block }
 
-
-[jekyll-organization]: https://github.com/jekyll
+![dhaynes thumbs up 5]({{ site.baseurl | prepend: site.url }}/img/dhaynes5.jpg){: .img-thumbnail .img-width .mx-auto .d-block }
