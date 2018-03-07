@@ -20,7 +20,7 @@ to make this site look pretty without having to do much work?
 
 ## Learn more about Jekyll
 
-You should check out [this cool talk](#) on Jekyll if you want to learn more about it!
+You should check out [this cool talk](https://go.gmu.edu/SRCTJekyllTalk) on Jekyll if you want to learn more about it!
 
 ## Who is this "SRCT"?
 
